@@ -36,7 +36,7 @@ This project integrates a mobile application, hardware components, and simulatio
 
 ## Project Structure
 - **/Flutter_ITI/smart_home:** Contains the Flutter code for the mobile app.
-- **/AVR_ITI\ITI_Graduation_Project:** C code for programming the AVR microcontroller, structured into APP, HAL, and MCAL.
+- **/AVR_ITI/ITI_Graduation_Project:** C code for programming the AVR microcontroller, structured into APP, HAL, and MCAL.
 - **/GRAD_PROJECT.pdsprj:** Proteus simulation files.
 
 ## Getting Started
@@ -54,7 +54,6 @@ This project integrates a mobile application, hardware components, and simulatio
    - Use the app to control the safety door and lights.
 
 ## Captions for Images
-- **System Overview:** A high-level view of the mobile-controlled home system.
 - **Hardware Setup:** The physical connections of the microcontroller, Bluetooth module, solenoid, led, and buzzer.
   ![2024-08-19 at 11 38 53 AM](https://github.com/user-attachments/assets/ac60714d-0f33-4f0a-8c3e-a708184f5c16)
   
