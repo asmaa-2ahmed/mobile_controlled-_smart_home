@@ -56,17 +56,13 @@ This project integrates a mobile application, hardware components, and simulatio
 ## Captions for Images
 - **System Overview:** A high-level view of the mobile-controlled home system.
 - **Hardware Setup:** The physical connections of the microcontroller, Bluetooth module, solenoid, led, and buzzer.
-- ![2024-08-19 at 11 38 53 AM](https://github.com/user-attachments/assets/ac60714d-0f33-4f0a-8c3e-a708184f5c16)
+  ![2024-08-19 at 11 38 53 AM](https://github.com/user-attachments/assets/ac60714d-0f33-4f0a-8c3e-a708184f5c16)
   
 - **Mobile App Interface:** Screenshot of the Flutter app showing the control options for the safety door and lights.
-![01](https://github.com/user-attachments/assets/0df16e7f-1ee5-4c2e-9c4a-f0967f730023)
-![02](https://github.com/user-attachments/assets/a94e42c0-34e8-4756-bb4e-395492514f05)
-![1](https://github.com/user-attachments/assets/ad395038-61d4-44c7-9e7a-8a52bbd3c48e)
-![2](https://github.com/user-attachments/assets/49211be7-c85e-45cc-b2ac-145406991ad0)
-![3](https://github.com/user-attachments/assets/89f8ea6c-f35c-4485-b130-8e657276365b)
+  ![2024-08-31 002440](https://github.com/user-attachments/assets/f16180ca-b3aa-4500-a5cb-72a0188e12b5)
 
 - **Proteus Simulation:** A snapshot of the Proteus simulation running, showing the interaction between the app and hardware components.
-![2024-08-19 at 11 37 11 AM](https://github.com/user-attachments/assets/e92df5d3-41f9-4909-adfe-7322f815a8c7)
+  ![2024-08-19 at 11 37 11 AM](https://github.com/user-attachments/assets/e92df5d3-41f9-4909-adfe-7322f815a8c7)
 
 ## Conclusion
 This project demonstrates the integration of mobile applications with hardware control systems, providing a secure and user-friendly solution for home automation. The combination of Flutter, Firebase, C programming in Eclipse, and Proteus simulation ensures a reliable and scalable system.
