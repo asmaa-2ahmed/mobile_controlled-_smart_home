@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247811437922",
+    "project_id": "smart-home-e7547",
+    "storage_bucket": "smart-home-e7547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247811437922:android:74d1ad27e8ba4a702ca83b",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfvLEbv-c0M9lB5c9EIrIYxRoe9Wc9EMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
