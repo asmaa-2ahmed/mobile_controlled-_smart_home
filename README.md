@@ -29,6 +29,7 @@ This project integrates a mobile application, hardware components, and simulatio
 
 ## Mobile Application (Flutter)
 - Developed using Flutter with Firebase for secure user authentication.
+- Firebase authentication is implemented with the help of a tutorial video, which can be found [here](https://youtu.be/T96Pue6ePGA?si=Dj3dLEzNrgEKcAcn).
 - User-friendly interface to control the home’s safety door and lights.
 
 ## Simulation (Proteus)
