@@ -36,7 +36,7 @@ This project integrates a mobile application, hardware components, and simulatio
 - The entire hardware setup is simulated using Proteus to visualize the system’s functionality before actual deployment.
 
 ## Project Structure
-- **/Flutter_ITI/smart_home:** Contains the Flutter code for the mobile app.
+- **/smart_home:** Contains the Flutter code for the mobile app.
 - **/AVR_ITI/ITI_Graduation_Project:** C code for programming the AVR microcontroller, structured into APP, HAL, and MCAL.
 - **/GRAD_PROJECT.pdsprj:** Proteus simulation files.
 
